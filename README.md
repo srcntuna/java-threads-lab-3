@@ -1,4 +1,4 @@
-# Threads 3
+# Threads Lab 3
 
 ## Instruction
 
